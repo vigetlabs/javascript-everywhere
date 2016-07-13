@@ -2,6 +2,8 @@
 
 A SXSW Interactive 2017 Workshop
 
+![JavaScript Everywhere](http://blog.coderhouse.com/wp-content/uploads/2015/11/javascript-everywhere-01-01.jpg)
+
 ## About the Workshop
 
 (Video introduction coming soon!)
