@@ -6,7 +6,7 @@ A SXSW Interactive 2017 Workshop
 
 ## About the Workshop
 
-(Video introduction coming soon!)
+[Watch our workshop introduction on YouTube](https://www.youtube.com/watch?v=u-v76b-P-C8)
 
 Recent advances now allow us build for every platform with JavaScript. React Native for mobile. Electron for desktop. React for web. And Node.js for backend.
 
